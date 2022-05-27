@@ -44,7 +44,7 @@ def main():
 
     # IF ELSE STATEMENTS
     if userChamp in melhores:
-        print('VC É PICA')
+        print('VC TEM ÓTIMO GOSTO')
     elif userChamp in lacre:
         print('lacrou mana')
     elif userChamp in heterotop:
@@ -56,7 +56,7 @@ def main():
     elif userChamp in esquecidos:
         print('Eu falei um champ bom KKKKKKKKKKK')
     else:
-        print('Fala um champ, peste')
+        print('Fala um champ, caramba')
 
 #REPEATING GAME
 def end():
