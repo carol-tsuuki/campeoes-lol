@@ -4,7 +4,7 @@ def lower(listName):
 
 def main():
 
-    # ENDS BEGINNING
+    #LISTS
     melhores = ['Akali', 'Brand', 'Diana', 'Garen','Karma', 'Lucian', 'Leblanc', 'Leona', 'Jinx',
                 'Evelynn', 'Nami', 'Nautilus', 'Renata', 'Renata Glasc', 'Rengar', 'Soraka', 'Vayne', 'Veigar',
                 'Vex', 'Xerath', 'Yuumi', 'Zed', 'Zeri']
